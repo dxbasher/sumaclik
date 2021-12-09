@@ -1,0 +1,22 @@
+{
+  "version": "2.0",
+  "contract": {
+    "customer": "suma",
+    "expiration": {
+      "year": 2022,
+      "month": 3,
+      "day": 9
+    },
+    "products": [
+      "iface"
+    ],
+    "idkit": {
+      "max_client_connections": 1,
+      "database_size": 1
+    },
+    "hwids": [
+      "Ab1OQedZXtY0tKID"
+    ],
+    "signature": "BvUtCTVqXDj1g/QDCDLdjYzZXyYfnzXfLxYCfhWL+8TgnW/Lq2A8YaEn4KKciQn2ZFuiBVJO/NkHSzVWrBwrIZSzGdzKoL+k1CKYNPy9E0QLaaB1AOZeBHYfNiE4tqA18rYal/IfFp+DH2ZnmsW9iNFMFCeXfmatUkNgeYDPdHA="
+  }
+}

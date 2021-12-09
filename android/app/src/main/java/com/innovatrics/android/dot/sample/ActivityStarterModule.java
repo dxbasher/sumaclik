@@ -53,7 +53,7 @@ final class ActivityStarterModule extends ReactContextBaseJavaModule {
     } else {
       ReactApplicationContext context = getReactApplicationContext();
       if (context != null) {
-        final byte[] license = LicenseUtils.loadRawLicense(context, R.raw.sample_license);
+        final byte[] license = LicenseUtils.loadRawLicense(context, R.raw.suma_iengine);
         final Dot.Listener dotListener = new Dot.Listener() {
           @Override
           public void onInitSuccess() {

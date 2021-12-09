@@ -323,7 +323,7 @@ public class DemoActivity extends AppCompatActivity {
         } else {
             setButtonsEnabled(false);
 
-            final byte[] license = LicenseUtils.loadRawLicense(this, R.raw.sample_license);
+            final byte[] license = LicenseUtils.loadRawLicense(this, R.raw.suma_iengine);
             final Dot.Listener dotListener = new Dot.Listener() {
 
                 @Override
